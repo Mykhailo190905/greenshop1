@@ -1,0 +1,57 @@
+form{
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+input {
+    border-radius: 5px;
+    padding: 12px 14px;
+    display: block;
+    border: 1px solid rgba(234, 234, 234, 1);
+    margin-bottom: 16px;
+    width: 100%;
+}
+.login_register{
+    text-align: center
+}
+.register{
+    color: green;
+    width: 52px;
+}
+.paragraph{
+    text-align: center;
+}
+
+.submit{
+    max-width: 300px;
+    margin: 0 auto;
+}
+.green{
+    background:  rgba(70, 163, 88, 1);
+    color: white;
+    display: block;
+    border-radius: 5px;
+    margin: 16px 16px;
+    width: 100%;
+}
+p{
+    text-align: center;
+}
+.google{
+    text-align: center;
+    border-radius: 5px;
+    padding: 12px 14px;
+    display: block;
+    margin-bottom: 16px;
+    width: 100%;
+    
+}
+.facebook{
+    text-align: center;
+    border-radius: 5px;
+    padding: 12px 14px;
+    display: block;
+    margin-bottom: 16px;
+    width: 100%;
+}
+
